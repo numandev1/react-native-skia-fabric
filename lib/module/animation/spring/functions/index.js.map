@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":["createSpringEasing"],"mappings":"AAAA,SAASA,kBAAT,QAAmC,UAAnC","sourcesContent":["export { createSpringEasing } from \"./spring\";\n"]}

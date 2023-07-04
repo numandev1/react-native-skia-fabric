@@ -1,0 +1,1 @@
+{"version":3,"sources":["api.ts"],"names":["SkiaViewApi","global"],"mappings":";;;;;;AAMO,MAAM;AAAEA,EAAAA;AAAF,IAAkBC,MAAxB","sourcesContent":["import type { ISkiaViewApi } from \"./types\";\n\ndeclare global {\n  var SkiaViewApi: ISkiaViewApi;\n}\n\nexport const { SkiaViewApi } = global;\n"]}
